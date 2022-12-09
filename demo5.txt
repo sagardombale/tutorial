@@ -1,0 +1,10 @@
+step:1> git config --global user.name sagar
+
+
+step:2> git config --global user.email sagardombale8086@gmail.com
+
+
+step:3> git init
+		The git init command creates a new Git repository.
+
+step:4> ls -lart
